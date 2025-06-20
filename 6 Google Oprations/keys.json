@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "testspy-449909",
+  "private_key_id": "...",
+  "private_key": "-----BEGIN PRIVATE KEY ............................... END PRIVATE KEY-----\n",
+  "client_email": "amir-664@testspy-449909.iam.gserviceaccount.com",
+  "client_id": "104069005599997271933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amir-664%40testspy-449909.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
