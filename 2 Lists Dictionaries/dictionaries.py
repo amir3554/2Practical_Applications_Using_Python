@@ -67,7 +67,7 @@ Amir = {
     'number' : '0599257557',
     'skills' : ['HTML', 'python', 'CSS']
     }
-print(f'My Name is {Amir['name']}, and my hoppy is {Amir.get('hoppy', 'no info')}')
+print(f"My Name is {Amir['name']}, and my hoppy is {Amir.get('hoppy', 'no info')}")
 
 print('----------------------------')
 

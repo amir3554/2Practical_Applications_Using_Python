@@ -116,7 +116,7 @@ while len(sys.argv) == 2:# argv[0]= this file name, argv[1]= the data base name,
             update_one()
 
         if the_main_input == '-s':
-            print(f"Your Tasks has been saved.\n The DB file is {Data_Base_name}, in {Path.home() / Path("Desktop", "tests")}")
+            print(f'Your Tasks has been saved.\n The DB file is {Data_Base_name}, in {Path.home() / Path("Desktop", "tests")}')
         connection.commit()
 
         if the_main_input == 'q':
